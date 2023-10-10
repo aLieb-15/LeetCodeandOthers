@@ -8,6 +8,20 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "BigSpeakDesignModel.DecoratorModel.FixedDecorator.Main",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "BigSpeakDesignModel.DecoratorModel.Main",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "BigSpeakDesignModel.StrategyModel.Main",
             "projectName": "java learning_825df583"
         },
