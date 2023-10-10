@@ -1,0 +1,1022 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "BigSpeakDesignModel.StrategyModel.Main",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main02",
+            "request": "launch",
+            "mainClass": "ZJS.Main02",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01",
+            "request": "launch",
+            "mainClass": "ZJS.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "BigSpeakDesignModel.SimpleFactory.Program",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main03",
+            "request": "launch",
+            "mainClass": "JDFall.Main03",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01",
+            "request": "launch",
+            "mainClass": "JDFall.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "JDFall.Main",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01",
+            "request": "launch",
+            "mainClass": "mihoyo.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "ScheduledThreadPoolExample",
+            "request": "launch",
+            "mainClass": "ThreadPoolExamples.ScheduledThreadPoolExample",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main02",
+            "request": "launch",
+            "mainClass": "Xiaomi.Main02",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01",
+            "request": "launch",
+            "mainClass": "Xiaomi.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Xiaomi.Test",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main02",
+            "request": "launch",
+            "mainClass": "HuaweiAgain.Main02",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01",
+            "request": "launch",
+            "mainClass": "HuaweiAgain.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BD02",
+            "request": "launch",
+            "mainClass": "BaiduAgain.BD02",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "BaiduAgain.Main",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01",
+            "request": "launch",
+            "mainClass": "BaiduAgain.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main02",
+            "request": "launch",
+            "mainClass": "BaiduAgain.Main02",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main03",
+            "request": "launch",
+            "mainClass": "BaiduAgain.Main03",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Hash",
+            "request": "launch",
+            "mainClass": "ByteDance.Hash",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "ByteDance.Main",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01(1)",
+            "request": "launch",
+            "mainClass": "ByteDance.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main03(1)",
+            "request": "launch",
+            "mainClass": "ByteDance.Main03",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main04",
+            "request": "launch",
+            "mainClass": "ByteDance.Main04",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "MaxBitwiseORFromThreeStacks",
+            "request": "launch",
+            "mainClass": "ByteDance.MaxBitwiseORFromThreeStacks",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Code01_RobotWalking",
+            "request": "launch",
+            "mainClass": "Code01_RobotWalking",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Code01_Upstairs",
+            "request": "launch",
+            "mainClass": "Code01_Upstairs",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01(2)",
+            "request": "launch",
+            "mainClass": "FastHand.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "longestPalindrome",
+            "request": "launch",
+            "mainClass": "FastHand.longestPalindrome",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "AioClient",
+            "request": "launch",
+            "mainClass": "IO.AioClient",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "AioServer",
+            "request": "launch",
+            "mainClass": "IO.AioServer",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "BioClient",
+            "request": "launch",
+            "mainClass": "IO.BioClient",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "BioServer",
+            "request": "launch",
+            "mainClass": "IO.BioServer",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "IO.Main",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "NioClient",
+            "request": "launch",
+            "mainClass": "IO.NioClient",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "NioServer",
+            "request": "launch",
+            "mainClass": "IO.NioServer",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "IO.Server",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "read",
+            "request": "launch",
+            "mainClass": "IO.read",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "write",
+            "request": "launch",
+            "mainClass": "IO.write",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Intern",
+            "request": "launch",
+            "mainClass": "Intern",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "JDKInvocation.test",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "JUC.Main",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "PrintCharThree",
+            "request": "launch",
+            "mainClass": "JUC.PrintCharThree",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "PrintTest",
+            "request": "launch",
+            "mainClass": "JUC.PrintTest",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "GC",
+            "request": "launch",
+            "mainClass": "JVM.GC",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "testHashCode",
+            "request": "launch",
+            "mainClass": "JVM.testHashCode",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "KafkaTest",
+            "request": "launch",
+            "mainClass": "Kafka.KafkaTest",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode1025",
+            "request": "launch",
+            "mainClass": "LeetCode1025",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode1041",
+            "request": "launch",
+            "mainClass": "LeetCode1041",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode1125",
+            "request": "launch",
+            "mainClass": "LeetCode1125",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode115",
+            "request": "launch",
+            "mainClass": "LeetCode115",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode12",
+            "request": "launch",
+            "mainClass": "LeetCode12",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode20",
+            "request": "launch",
+            "mainClass": "LeetCode20",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode206",
+            "request": "launch",
+            "mainClass": "LeetCode206",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode21",
+            "request": "launch",
+            "mainClass": "LeetCode21",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode22",
+            "request": "launch",
+            "mainClass": "LeetCode22",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode2339",
+            "request": "launch",
+            "mainClass": "LeetCode2339",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode338",
+            "request": "launch",
+            "mainClass": "LeetCode338",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode39",
+            "request": "launch",
+            "mainClass": "LeetCode39",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode46",
+            "request": "launch",
+            "mainClass": "LeetCode46",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode46_re",
+            "request": "launch",
+            "mainClass": "LeetCode46_re",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode47",
+            "request": "launch",
+            "mainClass": "LeetCode47",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode55",
+            "request": "launch",
+            "mainClass": "LeetCode55",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode56",
+            "request": "launch",
+            "mainClass": "LeetCode56",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode746",
+            "request": "launch",
+            "mainClass": "LeetCode746",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode86",
+            "request": "launch",
+            "mainClass": "LeetCode86",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode93",
+            "request": "launch",
+            "mainClass": "LeetCode93",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCodeFaceTest13",
+            "request": "launch",
+            "mainClass": "LeetCodeFaceTest13",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCodeFaceTest45",
+            "request": "launch",
+            "mainClass": "LeetCodeFaceTest45",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCodeFaceTest61",
+            "request": "launch",
+            "mainClass": "LeetCodeFaceTest61",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCodeOffer34",
+            "request": "launch",
+            "mainClass": "LeetCodeOffer34",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCodeOffer36",
+            "request": "launch",
+            "mainClass": "LeetCodeOffer36",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCodeOffer46",
+            "request": "launch",
+            "mainClass": "LeetCodeOffer46",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCodeOffer47",
+            "request": "launch",
+            "mainClass": "LeetCodeOffer47",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCodeOffer48",
+            "request": "launch",
+            "mainClass": "LeetCodeOffer48",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCodeOffer55",
+            "request": "launch",
+            "mainClass": "LeetCodeOffer55",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCodeOffer58",
+            "request": "launch",
+            "mainClass": "LeetCodeOffer58",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "LeetCoede53",
+            "request": "launch",
+            "mainClass": "LeetCoede53",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "MapTest.Test",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "MultiThread",
+            "request": "launch",
+            "mainClass": "MultiThread.MultiThread",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "ThreadLocalTest",
+            "request": "launch",
+            "mainClass": "MultiThread.ThreadLocalTest",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "VolatoleAtomicityDemo",
+            "request": "launch",
+            "mainClass": "MultiThread.VolatoleAtomicityDemo",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "QuickSortAgain",
+            "request": "launch",
+            "mainClass": "QuickSortAgain",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Test(1)",
+            "request": "launch",
+            "mainClass": "SetTest.Test",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01(3)",
+            "request": "launch",
+            "mainClass": "Shenxinfu.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main02(1)",
+            "request": "launch",
+            "mainClass": "Shenxinfu.Main02",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main03(2)",
+            "request": "launch",
+            "mainClass": "Shenxinfu.Main03",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main04(1)",
+            "request": "launch",
+            "mainClass": "Shenxinfu.Main04",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "ThreadLocalTest(1)",
+            "request": "launch",
+            "mainClass": "ThreadLocalTest.ThreadLocalTest",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "FutureTest",
+            "request": "launch",
+            "mainClass": "ThreadTest.FutureTest",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Test(2)",
+            "request": "launch",
+            "mainClass": "ThreadTest.Test",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "ThreadLocalTest(2)",
+            "request": "launch",
+            "mainClass": "ThreadTest.ThreadLocalTest",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "TryingHashMap",
+            "request": "launch",
+            "mainClass": "TryingHashMap",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "TryingString",
+            "request": "launch",
+            "mainClass": "TryingString",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "aliyimian0401.Main",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01(4)",
+            "request": "launch",
+            "mainClass": "ant.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main02(2)",
+            "request": "launch",
+            "mainClass": "ant.Main02",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main03(3)",
+            "request": "launch",
+            "mainClass": "ant.Main03",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main03plus",
+            "request": "launch",
+            "mainClass": "ant.Main03plus",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "test(1)",
+            "request": "launch",
+            "mainClass": "ant.test",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01(5)",
+            "request": "launch",
+            "mainClass": "baidu.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main02(3)",
+            "request": "launch",
+            "mainClass": "baidu.Main02",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "ConcurrentModificationExample",
+            "request": "launch",
+            "mainClass": "clone.ConcurrentModificationExample",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Test(3)",
+            "request": "launch",
+            "mainClass": "clone.Test",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01(6)",
+            "request": "launch",
+            "mainClass": "honor.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main02(4)",
+            "request": "launch",
+            "mainClass": "honor.Main02",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main03(4)",
+            "request": "launch",
+            "mainClass": "honor.Main03",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Another02",
+            "request": "launch",
+            "mainClass": "huazi.Another02",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01(7)",
+            "request": "launch",
+            "mainClass": "huazi.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main02(5)",
+            "request": "launch",
+            "mainClass": "huazi.Main02",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main03(5)",
+            "request": "launch",
+            "mainClass": "huazi.Main03",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Test(4)",
+            "request": "launch",
+            "mainClass": "huazi.Test",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01(8)",
+            "request": "launch",
+            "mainClass": "huazi2.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main02(6)",
+            "request": "launch",
+            "mainClass": "huazi2.Main02",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main03(6)",
+            "request": "launch",
+            "mainClass": "huazi2.Main03",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Tmp",
+            "request": "launch",
+            "mainClass": "huazi2.Tmp",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main(6)",
+            "request": "launch",
+            "mainClass": "javaBase.AbstractFactory.Main",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main(7)",
+            "request": "launch",
+            "mainClass": "javaBase.FactoryMethod.Main",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main(8)",
+            "request": "launch",
+            "mainClass": "javaBase.Main",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "PriorityQueueTest",
+            "request": "launch",
+            "mainClass": "javaBase.PriorityQueueTest",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main(9)",
+            "request": "launch",
+            "mainClass": "javaBase.SingleFactory.Main",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "tx",
+            "request": "launch",
+            "mainClass": "javaBase.Singleton.tx",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01(9)",
+            "request": "launch",
+            "mainClass": "meituan_fall.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main02(7)",
+            "request": "launch",
+            "mainClass": "meituan_fall.Main02",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main03(7)",
+            "request": "launch",
+            "mainClass": "meituan_fall.Main03",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main04(2)",
+            "request": "launch",
+            "mainClass": "meituan_fall.Main04",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main05",
+            "request": "launch",
+            "mainClass": "meituan_fall.Main05",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01(10)",
+            "request": "launch",
+            "mainClass": "qianxin.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main02(8)",
+            "request": "launch",
+            "mainClass": "qianxin.Main02",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "quickSort",
+            "request": "launch",
+            "mainClass": "quickSort",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "sortAlgos",
+            "request": "launch",
+            "mainClass": "sortAlgos",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "temp1",
+            "request": "launch",
+            "mainClass": "temp1",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "main01",
+            "request": "launch",
+            "mainClass": "tencent.main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "main02",
+            "request": "launch",
+            "mainClass": "tencent.main02",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "main03",
+            "request": "launch",
+            "mainClass": "tencent.main03",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "main04",
+            "request": "launch",
+            "mainClass": "tencent.main04",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "main05",
+            "request": "launch",
+            "mainClass": "tencent.main05",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main(10)",
+            "request": "launch",
+            "mainClass": "xhs0326.Main",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main01(11)",
+            "request": "launch",
+            "mainClass": "xiecheng.Main01",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main02(9)",
+            "request": "launch",
+            "mainClass": "xiecheng.Main02",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main03(8)",
+            "request": "launch",
+            "mainClass": "xiecheng.Main03",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main04(3)",
+            "request": "launch",
+            "mainClass": "xiecheng.Main04",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main(11)",
+            "request": "launch",
+            "mainClass": "xiong.Main",
+            "projectName": "java learning_825df583"
+        }
+    ]
+}

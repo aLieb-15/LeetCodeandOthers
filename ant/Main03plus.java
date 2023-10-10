@@ -4,12 +4,13 @@ import java.util.*;
 
 public class Main03plus {
     public static Map<String, Integer> map;
+    public static int MOD = 1000000007;
 
     public static void main(String[] args) {
         map = new HashMap<>();
         Scanner sc = new Scanner(System.in);
         String s = sc.next();
-        System.out.println(dfs(s, 0, new StringBuilder()));
+        System.out.println(dfs(s, 0, new StringBuilder()) % MOD);
     }
 
     public static int dfs(String s, int cur, StringBuilder sb) {
