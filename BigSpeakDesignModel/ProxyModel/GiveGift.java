@@ -1,4 +1,4 @@
-package BigSpeakDesignModel.AgentModel;
+package BigSpeakDesignModel.ProxyModel;
 
 public interface GiveGift {
     public void giveDolls();
