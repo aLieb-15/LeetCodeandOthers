@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "BigSpeakDesignModel.FactoryMethodModel.Main",
+            "projectName": "java learning_825df583"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "BigSpeakDesignModel.AgentModel.Main",
             "projectName": "java learning_825df583"
         },

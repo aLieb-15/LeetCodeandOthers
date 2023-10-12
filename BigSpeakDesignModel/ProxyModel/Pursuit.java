@@ -1,4 +1,4 @@
-package BigSpeakDesignModel.AgentModel;
+package BigSpeakDesignModel.ProxyModel;
 
 public class Pursuit implements GiveGift{
     SchoolGirl mm;
